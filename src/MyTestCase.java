@@ -10,6 +10,8 @@ import org.testng.annotations.Test;
 
 public class MyTestCase {
 	
+	//shaima atieh
+	
 	WebDriver driver = new ChromeDriver();
 	
 	String MyWebsite = "https://automationteststore.com/";
